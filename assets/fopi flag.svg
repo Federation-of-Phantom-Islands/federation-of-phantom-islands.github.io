@@ -57,22 +57,22 @@
     <path
        id="path1"
        d="M 0,0 H 2520 V 1044 H 0 Z"
-       style="fill:#588adb icc-color(sRGB-IEC61966-2, 0.1, 0.34498596, 0.54098511, 0.85899353);fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#588adb;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="matrix(1.3333333,0,0,-1.3333333,0,1392)" />
     <path
        id="path2"
        d="M 0,0 74.719,-210.113 276.125,-114.375 180.387,-315.781 390.5,-390.5 180.387,-465.219 276.125,-666.625 74.719,-570.887 0,-781 l -74.719,210.113 -201.406,-95.738 95.738,201.406 -210.113,74.719 210.113,74.719 -95.738,201.406 201.406,-95.738 z"
-       style="fill:#fee46e icc-color(sRGB-IEC61966-2, 0.1, 0.99598694, 0.89399719, 0.43099976);fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#fee46e;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="matrix(1.3333333,0,0,-1.3333333,1679.3333,174.66667)" />
     <path
        id="path3"
        d="M 0,0 H 100 V 1044 H 0 Z"
-       style="fill:#fefefe icc-color(sRGB-IEC61966-2, 0.1, 0.99598694, 0.99598694, 0.99598694);fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#fefefe;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="matrix(1.3333333,0,0,-1.3333333,0,1392)" />
     <path
        id="path4"
        d="m 2420,0 h 100 v 1044 h -100 z"
-       style="fill:#fefefe icc-color(sRGB-IEC61966-2, 0.1, 0.99598694, 0.99598694, 0.99598694);fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#fefefe;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="matrix(1.3333333,0,0,-1.3333333,0,1392)" />
   </g>
 </svg>
